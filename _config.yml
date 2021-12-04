@@ -29,6 +29,15 @@ markdown: kramdown
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
+permalink: /blog/:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blogpage"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
