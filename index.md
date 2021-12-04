@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # testing layout: home
-layout: tameplate.html
+layout: tameplate1.html
 ---
