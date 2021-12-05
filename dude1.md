@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # dude
 # testing layout: home
-layout: blog4
+layout: inner-page
+permalink: /dude4.html
 ---
