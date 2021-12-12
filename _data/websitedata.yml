@@ -1,0 +1,24 @@
+members:
+- name: Eric Mill
+  position: Dude that does stuff
+  otherstuff: Im a dude with computer skills
+  github: konklone
+  image: /img/team-1.jpg
+
+- name: Parker Moore
+  position: Dude that does other stuff
+  otherstuff: Im a dude with skateboarding skills
+  github: parkr
+  image: /img/team-2.jpg
+
+- name: Liu Fengyun
+  position: Dude that does other other stuff
+  otherstuff: Im a dude with canimation skills
+  github: liufengyun
+  image: /img/team-3.jpg
+
+strapline:
+- text: this is a test
+
+faqstrapline:
+- text: We get a lot of questions asking us what we do so we thought, we'd let you know the answers to some of them
