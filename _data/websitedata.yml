@@ -22,3 +22,19 @@ strapline:
 
 faqstrapline:
 - text: We get a lot of questions asking us what we do so we thought, we'd let you know the answers to some of them
+
+faq:
+- question: What do you think
+  answer: What
+
+- question: test question
+  answer: test answer
+
+- question: test question2
+  answer: test answer2
+
+skillsimage:
+- url: /img/skills.png
+
+skillstagline:
+- text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
