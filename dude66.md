@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /dude.json
 ---
 {
     "version": "https://jsonfeed.org/version/1",
