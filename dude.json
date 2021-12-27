@@ -14,6 +14,9 @@ layout: null
             "url": "{{ post.url | absolute_url }}",
             "title": {{ post.title | jsonify }},
             "content_html": {{ post.content | jsonify }},
+            "day": {{ post.date | date_to_string | date: "%d"}},
+            "month": {{ post.date | date_to_string | date: "%b"}},
+            "year": {{ post.date | date_to_string | date: "%Y"}},
             "date_published": "{{ post.date | date_to_xmlschema }}"
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ]
