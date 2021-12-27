@@ -11,3 +11,33 @@ jobs:
 - title: UI/UX Designer
   date: Aug 23, 2017
   url: ui-ux-designer
+logo:
+- url: https://ad-mr.github.io/assets/img/client-7.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-6.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-5.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-4.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-3.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-2.png
+  title:
+  sizeheight:
+  sizewidth:
+- url: https://ad-mr.github.io/assets/img/client-1.png
+  title:
+  sizeheight:
+  sizewidth:
+
