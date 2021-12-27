@@ -13,9 +13,9 @@ jobs:
   url: ui-ux-designer
 logo:
 - url: https://ad-mr.github.io/assets/img/client-7.png
-  title:
-  sizeheight:
-  sizewidth:
+  title: Hedera
+  sizeheight: 40
+  sizewidth: 30
 - url: https://ad-mr.github.io/assets/img/client-6.png
   title:
   sizeheight:
