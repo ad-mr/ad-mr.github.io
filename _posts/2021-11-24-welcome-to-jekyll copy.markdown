@@ -5,22 +5,8 @@ date:   2021-11-24 11:07:38 +0000
 categories: jekyll
 titleimage: "https://f.hubspotusercontent20.net/hub/7182223/hubfs/8th%20Wall%20Reality%20Engine%20Hero.jpg"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Where did the idea originate?
+From science fiction. In Snow Crash, a cult 1992 sci-fi novel by Neal Stephenson, the metaverse is a 3D virtual reality world where people can go to escape a dystopian reality: a vast online game in which people’s avatars wander around interacting with one another, accessing online services, going to virtual night clubs, and getting into virtual sword fights. Tech firms use the term today to mean different things, but at its most basic it refers to virtual spaces where you can collaborate and socialise with other people who aren’t in the same physical space as you. Mark Zuckerberg, Facebook’s chief executive, describes the metaverse as “an internet you’re inside of, rather than just looking at”.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Why is the metaverse in the news?
+It hit the headlines in July, when Zuckerberg declared that in the next five years, “I expect people will transition from seeing [Facebook] primarily as a social media company to seeing us as a metaverse company”. Facebook already owns Oculus, a leading manufacturer of virtual reality headsets. It is also developing Horizon Workrooms: these are virtual meeting rooms for up to 50 people where, using Oculus headsets, you and your colleagues’ cartoony avatars can gather, talk and gesticulate. More ambitious still is Horizon Worlds, a virtual world which is part social network and part gaming platform, inside which users can meet, play games and also create new game worlds. In the future, says Zuckerberg, “you’re basically going to be able to do everything that you can on the internet today as well as some things that don’t make sense on the internet today, like dancing”. As part of its strategy to build a metaverse, Facebook announced that it will be creating 10,000 jobs in the EU over the next five years. The tech giant will hire high-skilled engineers in countries across the bloc and focus its recruitment drive on Germany, France, Italy, Spain, Poland, the Netherlands and Ireland, CNBC reported. 

@@ -1,0 +1,43 @@
+jobs:
+- title: Creative Content Writer
+  date: Oct 4, 2017
+  url: creative-content-writer
+- title: Digital Marketing Manager
+  date: Sep 19, 2017
+  url: digital-marketing-manager
+- title: ReactJS Front-end Developer
+  date: Aug 23, 2017
+  url: react-js-front-end-developer
+- title: UI/UX Designer
+  date: Aug 23, 2017
+  url: ui-ux-designer
+logo:
+- url: https://ad-mr.github.io/assets/img/client-7.png
+  title: Hedera
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-6.png
+  title: Opensource
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-5.png
+  title: Three.js
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-4.png
+  title: WebGl
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-3.png
+  title: Unity
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-2.png
+  title: Blockchain
+  sizeheight: 40
+  sizewidth: 30
+- url: https://ad-mr.github.io/assets/img/client-1.png
+  title: AI
+  sizeheight: 40
+  sizewidth: 30
+

@@ -68,6 +68,13 @@
 
     <section class="inner-page" style="min-height: 350px">
       <div class="container">
+        
+        {% if page.titleimage %}
+         <img src="{{ page.titleimage }}" alt="{{ page.title }}" width="100%">
+{% else %}
+  <div>...</div>
+{% endif %}
+        
         <p>
           {{ page.content }}
         </p>
